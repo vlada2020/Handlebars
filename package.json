@@ -1,0 +1,26 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "description": "app using node express handlebars mvc paradigm and orm.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlada2020/Handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Handlebars/issues"
+  },
+  "homepage": "https://github.com/vlada2020/Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
